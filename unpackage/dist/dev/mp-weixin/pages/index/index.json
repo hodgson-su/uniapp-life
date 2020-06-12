@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "wpage": "/components/page",
+    "wheader": "/components/header"
+  }
+}

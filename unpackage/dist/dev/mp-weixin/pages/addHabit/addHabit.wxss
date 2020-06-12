@@ -1,0 +1,21 @@
+
+.input.data-v-834862bc{
+	margin:10px;
+	border:1px solid #969896;
+	border-radius: 20px;
+	padding:20px;
+}
+.btn.data-v-834862bc{
+	width:200px;
+	height: 30px;
+	line-height: 30px;
+	margin:0 auto;
+	border-radius: 20px;
+	background: #11998e; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #11998e, #38ef7d); /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(bottom, #11998e, #38ef7d);
+    background: linear-gradient(to top, #11998e, #38ef7d); 
+	text-align: center;
+	color: #FFFFFF;
+}
+

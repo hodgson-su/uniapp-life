@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/habitInfo/habitInfo",
+    "pages/addHabit/addHabit"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationStyle": "custom",
+    "disableScroll": true
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap36.json"
+}

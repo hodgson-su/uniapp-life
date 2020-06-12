@@ -1,0 +1,40 @@
+
+.content.data-v-14f3d2b0{
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	overflow: auto;
+}
+.lab.data-v-14f3d2b0{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	margin:10px;
+	background-color: #abc88b;
+	color: #FFFFFF;
+	padding: 10px;
+	height: 50px;
+	line-height: 50px;
+	border-radius: 20px;
+}
+.lab.active.data-v-14f3d2b0{
+	background-color: #1d953f;
+}
+.lab .icon .iconfont.data-v-14f3d2b0{
+	font-size: 40px;
+	margin-left: 20px;
+}
+.lab .right.data-v-14f3d2b0{
+	margin-left: 25px;
+	line-height: 25px;
+	color: 24px;
+}
+.add-btn.data-v-14f3d2b0{
+	background-color: #fff;
+	border:1px solid #969896;
+	color: #969896;
+}
+.add-btn .right.data-v-14f3d2b0{
+	line-height: 50px;
+}
+

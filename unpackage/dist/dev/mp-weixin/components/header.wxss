@@ -1,0 +1,23 @@
+
+.header.data-v-76382678{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	padding: 20px 15px 10px 15px;
+}
+.header .icon.data-v-76382678{
+	-webkit-box-flex:1;
+	-webkit-flex:1;
+	        flex:1;
+	color: #777777;
+}
+.header .middle.data-v-76382678{
+	-webkit-box-flex:2;
+	-webkit-flex:2;
+	        flex:2;
+	font-size: 21px;
+	color: #F6854C;
+	text-align: center;
+}
+
+
