@@ -14,6 +14,10 @@
             "path" : "pages/addHabit/addHabit",
             "style" : {}
         }
+        ,{
+            "path" : "pages/habitList/habitList",
+            "style" : {}
+        }
     ],
 	"globalStyle": {
 		"navigationStyle": "custom",

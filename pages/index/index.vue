@@ -15,12 +15,12 @@
 					<view class="note">已坚持{{Object.keys(item.timestamp).length}}天</view>
 				</view>
 			</view>
-			<view class="lab add-btn" @click="openWindow('addHabit')">
+			<!-- <view class="lab add-btn" @click="openWindow('addHabit')">
 				<view class="icon">
 					<text class="iconfont">&#xe64f;</text>
 				</view>
 				<view class="right">添加新习惯</view>
-			</view>
+			</view> -->
 		</view>
 	</wpage>
 </template>

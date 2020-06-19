@@ -23,7 +23,28 @@
 				}
 				this.$store.commit('addHabit',res)
 			}).catch((err)=>{
-				
+				console.log('hello')
+				let now_habit_list = [{
+					id:1000,
+					name:'运动',
+					timestamp:{},
+					numday:0,
+					now_sub_id:1
+				},{
+					id:1001,
+					name:'跑步',
+					timestamp:{},
+					numday:0,
+					now_sub_id:1
+				},{
+					id:1002,
+					name:'瑜伽',
+					timestamp:{},
+					numday:0,
+					now_sub_id:1
+				}]
+				this.$store.commit('addHabit',now_habit_list)
+				this.setLocalStorage('habit_list',now_habit_list)
 			})
 		},
 		onShow: function() {
